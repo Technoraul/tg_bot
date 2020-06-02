@@ -3,9 +3,9 @@ Telegram bot on python.
 This bot was created so that the company's employees in the work chat /roll with whom they will go to lunch today.
 
 Telegram bot has 3 commands:
-/get_id - returns your ID
-/get_group_id - returns group ID
-/roll - returns two random values from the file text.txt
+/getid - returns your ID (works in private messages)
+/get_groupid - returns group ID (works in private messages)
+/roll - returns two random values from the file text.txt (works in chat)
 
 Manual:
 1.Set your values here so that the bot works:
