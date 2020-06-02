@@ -1,7 +1,8 @@
 # tg_bot
-telegram bot on python.
+Telegram bot on python.
+This bot was created so that the company's employees in the work chat /roll with whom they will go to lunch today.
 
-This telegram bot has 3 commands:
+Telegram bot has 3 commands:
 /get_id - returns your ID
 /get_group_id - returns group ID
 /roll - returns two random values from the file text.txt
@@ -13,6 +14,6 @@ Manual:
   -admin [id, id]
   -updater = Updater(token='BOT_TOKEN')
   
-2. Create a file text.txt and fill it with content.
-  
-The bot was created so that the company's employees in the work chat /roll with whom they will go to lunch today.
+2.Create a file text.txt and fill it with content.
+3.Create a service for your bot using systemd service utility
+ 
