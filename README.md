@@ -10,7 +10,7 @@ Telegram bot has 3 commands:
 Manual:
 1.Set your values here so that the bot works:
   -WORK_GROUP_ID = -group_id
-  -TEST_GROUP_ID = -group_id
+  -TEST_GROUP_ID = -group_id (optional)
   -admin [id, id]
   -updater = Updater(token='BOT_TOKEN')
   
