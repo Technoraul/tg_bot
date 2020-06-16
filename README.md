@@ -1,6 +1,6 @@
-# tg_bot
-Telegram bot on python.
-This bot was created so that the company's employees in the work chat /roll with whom they will go to lunch today.
+
+### Telegram bot on python.
+### This bot was created so that the company's employees in the work chat /roll with whom they will go to lunch today.
 
 Telegram bot has 3 commands:
 /getid - returns your ID (works in private messages)
