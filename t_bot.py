@@ -11,8 +11,8 @@ admins = [id, id]
 
 # chat id
 
-WORK_GROUP_ID = -group_id
-TEST_GROUP_ID = -group_id
+WORK_GROUP_ID = group_id
+TEST_GROUP_ID = group_id
 
 # define commands
 
